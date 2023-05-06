@@ -25,8 +25,8 @@ The number of parameters in vgg16 is as follows:
 
 ## <span style="color:orange">VGG19</span>
 
-VGG19 is a variant of the VGG model which in short consists of 19 layers (16 convolution layers, 3 Fully connected layer, 5 MaxPool<br>
-layers and 1 SoftMax layer). There are other variants of VGG like VGG11, VGG16 and others. VGG19 has 19.6 billion FLOPs.
+VGG19 is a variant of the VGG model which in short consists of 19 layers (16 convolution layers, 3 Fully connected layer,<br>
+5 MaxPool layers and 1 SoftMax layer). There are other variants of VGG like VGG11, VGG16 and others. VGG19 has 19.6 billion FLOPs.
 
 <a><img src="images/vgg19.png"/></a>
 
@@ -34,8 +34,8 @@ The number of parameters in vgg16 is as follows:
 
 <a><img src="images/vgg19nop.png"/></a>
 
-The VGG model investigates the depth of layers with a very small convolutional filter size (3 × 3) to deal with large-scale images.<br>
-The authors released a series of VGG models with different layer lengths, from 11 to 19, which is presented in the following table:
+The VGG model investigates the depth of layers with a very small convolutional filter size (3 × 3) to deal with large-scale<br>
+images. The authors released a series of VGG models with different layer lengths, from 11 to 19, which is presented in the following table:
 
 <a><img src="images/vgg16arch.png"/></a>
 
